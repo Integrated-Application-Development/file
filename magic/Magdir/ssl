@@ -7,11 +7,17 @@
 # From: Nicolas Collignon <tsointsoin@gmail.com>
 
 0	string	-----BEGIN\040CERTIFICATE-----	PEM certificate
+!:mime application/x-pem-file
 0	string	-----BEGIN\040CERTIFICATE\040REQ	PEM certificate request
+!:mime application/x-pem-file
 0	string	-----BEGIN\040RSA\040PRIVATE	PEM RSA private key
+!:mime application/x-pem-file
 0	string	-----BEGIN\040DSA\040PRIVATE	PEM DSA private key
+!:mime application/x-pem-file
 0	string	-----BEGIN\040EC\040PRIVATE	PEM EC private key
+!:mime application/x-pem-file
 0	string	-----BEGIN\040ECDSA\040PRIVATE	PEM ECDSA private key
+!:mime application/x-pem-file
 
 # From Luc Gommans
 # OpenSSL enc file (recognized by a magic string preceding the password's salt)

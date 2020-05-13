@@ -9,7 +9,7 @@
 # updated by Joerg Jenderek at Apr 2015
 # Extension: .vcf
 # https://en.wikipedia.org/wiki/VCard
-0	string/c	BEGIN:VCARD		vCard visiting card
+0	string/cC	BEGIN:VCARD		vCard visiting card
 # deprecated
 #!:mime	text/x-vcard
 !:mime	text/vcard

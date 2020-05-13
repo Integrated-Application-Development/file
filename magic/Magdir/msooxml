@@ -44,4 +44,8 @@
 >>>>>&26	search/6000	PK\003\004
 >>>>>>&26	use		msooxml	
 >>>>>>&26	default		x		Microsoft OOXML
+# Libreoffice 6.1.3.2 doc with fifth file: so check the 5th file
+>>>>>>>&26	search/6000	PK\003\004
+>>>>>>>>&26	use		msooxml	
+>>>>>>>>&26	default		x		Microsoft OOXML
 >>>>>&26	default		x		Microsoft OOXML
